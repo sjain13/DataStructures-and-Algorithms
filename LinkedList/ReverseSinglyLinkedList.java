@@ -1,5 +1,3 @@
-package algorithms.LinkedList;
-
 
 public class ReverseSinglyLinkedList {
 	private static ListNode head;
